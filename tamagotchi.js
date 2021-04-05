@@ -90,5 +90,8 @@ DigitalPal.prototype.buyNewFurniture = function () {
 }
 
 
-const newFriend = new DigitalPal();
-console.log(newFriend);
+const dog = new DigitalPal();
+
+const cat = new DigitalPal();
+
+dog.meow();
